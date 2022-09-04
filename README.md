@@ -1,6 +1,6 @@
 <html>
     <head>
-        
+        <title>Bit Gashandel</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
